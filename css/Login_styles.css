@@ -1,0 +1,39 @@
+/*body principal*/
+#body{
+	background-color: rgba(190, 190, 190 );
+}
+
+
+
+/*design do form*/
+#form-login{
+	background-color: rgba(119, 136, 153, 0.4);
+	background-position: center;
+	border-radius: 20px;
+	position: center;
+	margin-top: 10%;
+	margin-left: 38%;
+	width: 450px;
+	height: 520px;
+	padding: 3%;
+	box-shadow: 7px 7px 5px grey;
+}
+
+/*estilo da label Login*/
+#label-login{
+	font-size: 40px;
+	text-align: center;
+	font-family: impact;
+	margin-top: 2%;
+	margin-bottom: 10%;
+}
+
+/*botao Enviar*/
+#button-input{
+	margin-top: 10%;
+}
+
+/*label de cadastrase*/
+#login-cad{
+	margin-top: 4%;
+}
